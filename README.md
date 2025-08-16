@@ -1,0 +1,1 @@
+# qt_mingw_opencv
